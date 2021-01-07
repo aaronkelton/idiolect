@@ -13,3 +13,9 @@ After reading Becoming Fluent, I had an idea to build an app that would let stud
 3. Students will record their own version of the content in their target language. There will be hundreds of native ES (español) speaker videos saying/singing the EN alphabet. There will be hundreds of FR (french) speaker videos saying/singing the EN alphabet. Etc.
 4. Students will evaluate and critique their fellow native's submission of the target material. For a YouTube submission, a Like thumbs up is good if all is well, otherwise a comment on the video would be appropriate. Upvote good comments. E.g. "Don't forget the 'a' after using conocer when referring to people. Conozco a tus padres"
 5. The Idiolect project will provide programming (think prompts more than scripts) for students/natives to live video chat. One student will speak their target language, and the other students will speak their native languge. In effect, one is the dedicated teacher/tutor and the other dedicated student learner.
+
+# Programming
+## Fundamentals
+Challenge | ENxEN | SPxEN | ESxES | INxES | Complete?
+----------|------|------|------|------|----------
+Alphabet  |[English](https://www.youtube.com/playlist?list=PLvc8sq07gah3ECmJIyVb-HDNQmcQP2Eto)|[Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah0tq3H9BB9jbPx4aDYVJT_T)|Español|Ingles| <ul><li>- [ ] </li></ul>
