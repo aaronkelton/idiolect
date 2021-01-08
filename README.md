@@ -16,6 +16,7 @@ After reading Becoming Fluent, I had an idea to build an app that would let stud
 
 # Programming
 ## Fundamentals
-Challenge | ENxEN | SPxEN | ESxES | INxES | Complete?
-----------|------|------|------|------|----------
-[Alphabet](https://github.com/aaronkelton/idiolect/blob/main/alphabet.md)  |[English](https://www.youtube.com/playlist?list=PLvc8sq07gah3ECmJIyVb-HDNQmcQP2Eto)|[Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah0tq3H9BB9jbPx4aDYVJT_T)|Español|Ingles| <ul><li>- [ ] </li></ul>
+Challenge | ENxEN | SPxEN | ESxES | INxES
+----------|------|------|------|------
+[Alphabet](https://github.com/aaronkelton/idiolect/blob/main/alphabet.md)  |[English](https://www.youtube.com/playlist?list=PLvc8sq07gah3ECmJIyVb-HDNQmcQP2Eto)|[Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah0tq3H9BB9jbPx4aDYVJT_T)|Español|Inglés
+Introductions | English | Spanish | Español | Inglés
