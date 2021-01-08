@@ -19,4 +19,4 @@ After reading Becoming Fluent, I had an idea to build an app that would let stud
 Challenge | ENxEN | SPxEN | ESxES | INxES
 ----------|------|------|------|------
 [Alphabet](https://github.com/aaronkelton/idiolect/blob/main/alphabet.md)  |[English](https://www.youtube.com/playlist?list=PLvc8sq07gah3ECmJIyVb-HDNQmcQP2Eto)|[Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah0tq3H9BB9jbPx4aDYVJT_T)|Español|Inglés
-Introductions | [English](https://youtube.com/playlist?list=PLvc8sq07gah2YyYnb4Ydx-iDTqoTNpCfV) | Spanish | Español | Inglés
+Introductions | [English](https://youtube.com/playlist?list=PLvc8sq07gah2YyYnb4Ydx-iDTqoTNpCfV) | [Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah1hqP3_ARHLo_PNcgs4ZWDI&jct=1FuAdLY0QacYgKKLeOR2B1CMFOyVDw) | Español | Inglés
