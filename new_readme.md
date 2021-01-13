@@ -13,4 +13,14 @@ user can add their own videos to the playlist! Each playlist has an associated s
 
 💪 Be polite in the comments. We are here to build each other up, and not to tear each other down. 🙌
 
-## Background
+## Challenges
+
+### Fundamentals
+
+Challenge | ENxEN | SPxEN | ESxES | INxES
+----------|------|------|------|------
+[Alphabet](https://github.com/aaronkelton/idiolect/blob/main/alphabet.md)  |[English](https://www.youtube.com/playlist?list=PLvc8sq07gah3ECmJIyVb-HDNQmcQP2Eto)|[Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah0tq3H9BB9jbPx4aDYVJT_T)|[Español](https://www.youtube.com/playlist?list=PLvc8sq07gah1A5vY4xhcqTQPTgIMQI_79&jct=UqCkGYu3cOjGECHNq32motRi0T5Ryg)|[Inglés](https://www.youtube.com/playlist?list=PLvc8sq07gah2FyyqLALUwHZZcuBsG6lul&jct=4C07IHXEjlKwatpHaHIZTyMVQFxtJg)
+[Introductions](https://github.com/aaronkelton/idiolect/blob/main/introductions.md) | [English](https://youtube.com/playlist?list=PLvc8sq07gah2YyYnb4Ydx-iDTqoTNpCfV) | [Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah1hqP3_ARHLo_PNcgs4ZWDI&jct=1FuAdLY0QacYgKKLeOR2B1CMFOyVDw) | [Español](https://www.youtube.com/playlist?list=PLvc8sq07gah1JCRhvZrSiB7mTXQIqeqBn&jct=kiqiHu5jQMzQ-S2NF-FTzMyC6BBWQA) | [Inglés](https://www.youtube.com/playlist?list=PLvc8sq07gah3oe8XHX4NKXtHAL1DjXJbh&jct=jdgbFmjKuqbiman9RZBayH1GEtPECw)
+[Counting 0 - 20](https://github.com/aaronkelton/idiolect/blob/main/counting_0-20.md) | [English](https://www.youtube.com/playlist?list=PLvc8sq07gah2pTa41pN1ET5Wn74KtR1Vz&jct=eOUmCJisSi0oSyMUHFxGPia63AmfiQ) | [Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah2Yi2wNdXMAnzwt36VdxDLL&jct=4Z33okQwP-y85iOwuf_PK9_wPRUasw) | Español | Inglés
+[How many people and pets](https://github.com/aaronkelton/idiolect/blob/main/how_many_people_and_pets.md) | [English](https://www.youtube.com/playlist?list=PLvc8sq07gah3hyaKq8VErXdh1VeFh8Mdj&jct=RvCr5TANtnPspl8s38C6kn_J93Hc2g) | [Spanish](https://www.youtube.com/playlist?list=PLvc8sq07gah1NPBDawIkKi89KPvvD-zzx&jct=Xhc99nqHV3YcCtHaUMY8v40csbpYMQ) | Español | Inglés
+[Describe some food](https://github.com/aaronkelton/idiolect/blob/main/describe_some_foods.md) | [English](https://www.youtube.com/playlist?list=PLvc8sq07gah28wzv06k817Oi7JyIbkP5E) | [Spanish](https://youtube.com/playlist?list=PLvc8sq07gah19hgFerxsUUOOhBKnPfP8-) | Español | Inglés
